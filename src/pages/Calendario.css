@@ -1,0 +1,10 @@
+/* Estilos para la página de Calendario */
+.calendario-content {
+    text-align: center;
+  }
+  
+  .calendario-content button {
+    background-color: #4682b4; /* Azul acero */
+    width: 90%;
+  }
+  

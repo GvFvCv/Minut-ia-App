@@ -1,0 +1,10 @@
+/* Estilos para la página de Dispensa */
+.dispensa-content {
+    text-align: center;
+  }
+  
+  .dispensa-content button {
+    background-color: #32cd32; /* Verde vibrante */
+    width: 90%;
+  }
+  

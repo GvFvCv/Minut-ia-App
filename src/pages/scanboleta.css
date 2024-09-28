@@ -1,0 +1,12 @@
+/* Estilos para la página de ScanBoleta */
+.scan-content {
+    text-align: center;
+    background-color:violet;
+    color: black;
+  }
+  
+  .scan-content button {
+    background-color: #ff6347; /* Naranja */
+    width: 90%;
+  }
+  

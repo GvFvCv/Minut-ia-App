@@ -1,0 +1,10 @@
+/* Estilos para la página de Ajustes */
+.ajustes-content {
+    text-align: center;
+  }
+  
+  .ajustes-content button {
+    background-color: #ffa07a; /* Salmón claro */
+    width: 90%;
+  }
+  
